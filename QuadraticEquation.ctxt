@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=QuadraticEquation
+comment1.params=a\ b\ c
+comment1.target=void\ qSolve(double,\ double,\ double)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
